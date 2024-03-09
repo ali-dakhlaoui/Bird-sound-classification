@@ -34,4 +34,9 @@ The training dataset is sourced from the Xeno-canto community and included over 
 
 
 
+   #2- PIPELINE:
+      #2.1- Audio Pre-processing
+Even if they come from the same dataset, sounds can vary in terms of raw signal characteristics such as sampling frequency, number of channels, and duration of the clip. These differences can impact further processing, for instance, a stereo signal results in twice as many time-frequency representations. To ensure consistency, the sounds are standardized in terms of sampling frequency and number of channels.
+
+![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/13cbd5fd-1b7c-43f8-b4b6-eb438fbcffcb)
 
