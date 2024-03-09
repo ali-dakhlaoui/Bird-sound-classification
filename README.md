@@ -8,7 +8,9 @@ In this project, we will be using the BirdClef 2022 dataset, which contains meta
 • Assessment of the effectiveness of transfer learning on selected CNNs in terms of classification accuracy metric
 
 # Dataset
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Data : https://www.kaggle.com/c/birdclef-2022/data
 
 The training dataset is sourced from the Xeno-canto community and included over 14,800 recordings spanning 152 different bird species. Many of these bird species are found in isolated, hard-to-reach high-elevation habitats, making physical monitoring difficult. Therefore, scientists have turned to using sound recordings to study them. As shown in Figure 1, these bird species exhibit a long-tailed distribution, which makes it challenging to deal with the extreme class imbalance. The goal of this competition is to develop machine learning models that can identify bird species based on their sounds, while addressing real-world challenges such as long-tailed rare birds and weak-noisy labels. The Kaggle competition provides all necessary data. It consists of 39.28 GB worth of 62.9k Ogg Vorbis audio files. The data includes:
 
