@@ -24,19 +24,14 @@ The training dataset is sourced from the Xeno-canto community and included over 
 
    #1- EDA: Exploratory Data Analysis
 
-Bird sounds distribution: Distribution of bird species in the training dataset:
-![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/6a91ca9f-bc88-4ed2-81a2-6da3cfead317)
+![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/4eaaaf04-8931-4fb6-aa9c-65828186d653)
 
 
-
-Attributes in the metadata CSV file:
-![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/ee88f91f-4ce1-4bcb-84bd-a14b8e96199a)
+![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/dbc93805-034b-4082-a670-8017b4bf6d92)
 
 
+![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/57200724-4682-4d3f-933a-6a605fed2ef3)
 
-
-Audio Distribution of the bird sounds:
-![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/78716293-306e-4b88-9dbe-422f711dd472)
 
 
 
