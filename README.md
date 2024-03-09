@@ -43,4 +43,7 @@ This step will include: Peak identification, Audio re-channeling, Audio resampli
 
    # 3- Comparative Analysis of Deep Learning models:
 
+This step will include the trainig, validation and test of various Deep learning model used, such as Resnet50, Vgg16, Xception, Resnet34 and Resnet 18.
+this part will include also a comparison of the result to discover which models performed and fitted the best to this kind of data.
+
 ![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/2f9fb176-9cc3-4b3c-b0c1-2670ee583a36)
