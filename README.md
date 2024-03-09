@@ -34,9 +34,13 @@ The training dataset is sourced from the Xeno-canto community and included over 
 
 
 
-   # 2- PIPELINE:
-      # 2.1- Audio Pre-processing
+   # 2- PIPELINE: Audio Pre-processing
+   
 Even if they come from the same dataset, sounds can vary in terms of raw signal characteristics such as sampling frequency, number of channels, and duration of the clip. These differences can impact further processing, for instance, a stereo signal results in twice as many time-frequency representations. To ensure consistency, the sounds are standardized in terms of sampling frequency and number of channels.
+This step will include: Peak identification, Audio re-channeling, Audio resampling, Audio resizing to same length, Data Augmentation( Time shift ), 
 
 ![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/13cbd5fd-1b7c-43f8-b4b6-eb438fbcffcb)
 
+   # 3- Comparative Analysis of Deep Learning models:
+
+![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/2f9fb176-9cc3-4b3c-b0c1-2670ee583a36)
