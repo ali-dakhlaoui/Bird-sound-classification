@@ -18,4 +18,8 @@ The training dataset is sourced from the Xeno-canto community and included over 
 • Short audio files featuring individual bird calls sourced from xeno-canto.org.
 • Metadata in the form of a CSV file for the short audio files, which includes the primary bird species code, recording provider, location (latitude and longitude), date, and associated audio file name.
 
+# Steps
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+   #1- EDA: Exploratory Data Analysis
+![image](https://github.com/ali-dakhlaoui/Bird-sound-classification/assets/96072199/6a91ca9f-bc88-4ed2-81a2-6da3cfead317)
